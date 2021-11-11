@@ -1,1 +1,3 @@
-# PRO-C16-Trex-Etapa-6
+TREX
+
+Projeto do TREX contendo todos os arquivos necessários (imagens, sons, bibliotecas)
